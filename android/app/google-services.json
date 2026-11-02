@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974081226011",
+    "project_id": "misemestre-7b231",
+    "storage_bucket": "misemestre-7b231.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974081226011:android:2645def69fdb393166cfbe",
+        "android_client_info": {
+          "package_name": "com.example.mi_semestre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANP3eacyPYrwN3_zerA38pFxe6fe44H48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
